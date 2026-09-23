@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d949e8f72c26bf421ff0329f",
+  "owner": "emubpvtdhg",
+  "repo": "page-396a844e7737ba358970c433",
+  "title": "鸥鹏云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "396a844e7737ba358970c433",
+      "a": "鸥鹏云",
+      "b": "2027最新官网",
+      "entity": "鸥鹏云",
+      "brand": "鸥鹏云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "47218b7dff9f6da16a1d5c1178d92a75152fcad1595c4968f8126055d5d3139e",
+      "content": {
+        "primary_entity": "鸥鹏云",
+        "keyword1": "鸥鹏云",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按手机、电脑、路由器等设备选择客户端，再配合订阅链接导入。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求选定套餐，完成客户端导入即可使用。",
+          "AI_CLOSING_TITLE": "选对套餐，稳定连接",
+          "AI_DESCRIPTION": "，围绕海外网络加速场景设计套餐，基础版每月 15 元提供 100GB 流量与 3 台设备，旗舰版每月 35 元提供 300GB 流量、5 台设备与 IPLC 专线，团队版每月 85 元提供 1000GB 流量与 20 台设备。按年付费更划算，适合根据个人或团队规模灵活选择。",
+          "AI_FEATURES_INTRO": "从流量额度、在线设备数和订阅周期三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐核心差异",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按实际用量匹配。",
+          "AI_FEATURE_TEXT_2": "支持 3 台、5 台或 20 台设备同时在线，按家庭与团队规模挑选。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_FEATURE_TITLE_1": "流量额度",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成套餐选择与订阅配置。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_HERO_INTRO": "鸥鹏云为个人和团队提供海外网络加速订阅，分为基础版、旗舰版和团队版，可按流量、设备数和预算灵活选择，并搭配常用客户端导入订阅使用。",
+          "AI_HERO_SUBTITLE": "灵活套餐，稳定加速",
+          "AI_HIGHLIGHT_1": "旗舰版含 IPLC 专线",
+          "AI_HIGHLIGHT_2": "年付低至 10 元/月",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合多设备与游戏加速，团队版适合高流量团队。",
+          "AI_PLANS_TITLE": "选择合适套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版、团队版中选定适合的套餐。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认系统版本、设备数量与网络环境是否满足。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照客户端文档导入订阅链接，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "鸥鹏云订阅套餐",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月或 ¥150/年，含 100GB 月流量与 3 台设备；旗舰版 ¥35/月或 ¥350/年，300GB 流量、5 台设备并带 IPLC 游戏优化；团队版 ¥85/月或 ¥850/年，1000GB 流量和 20 台设备。",
+          "AI_FAQ_ANSWER_2": "通常按不同客户端分别计数，手机、电脑、路由器同时在线会各自占用一个设备名额。具体计数方式可查看订阅页面说明，避免超出套餐上限。",
+          "AI_FAQ_ANSWER_3": "年付整体更划算，基础版年付 ¥150 相当于每月约 ¥12.5，旗舰版年付 ¥350 相当于每月约 ¥29.2，团队版年付 ¥850 相当于每月约 ¥70.8。",
+          "AI_FAQ_ANSWER_4": "可以，发现流量或设备数不够用时，可在订阅有效期内联系客服调整到更高档套餐，按剩余周期折算差价即可。",
+          "AI_FAQ_ANSWER_5": "按设备系统下载对应客户端，复制订阅链接后粘贴导入，更新节点列表即可使用。路由器等设备需参照其插件文档配置。",
+          "AI_FAQ_INTRO": "套餐档位、设备限制与订阅导入。",
+          "AI_FAQ_QUESTION_1": "鸥鹏云各套餐价格和流量分别是多少？",
+          "AI_FAQ_QUESTION_2": "设备数量是怎么计算的？",
+          "AI_FAQ_QUESTION_3": "年付比月付省多少？",
+          "AI_FAQ_QUESTION_4": "套餐可以升级或更换吗？",
+          "AI_FAQ_QUESTION_5": "订阅如何导入客户端？",
+          "AI_FAQ_TITLE": "常见问题解答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "immtelecomjc.com",
+    "host": "immtelecomjc.com"
+  },
+  "file_hashes": {
+    "index.html": "2d654c88975f080ce55dc5c43f497faabfe753f82dfb3add2a01e5f0d01525f2",
+    "sitemap.xml": "73f6c167127075f79fc6194e60b83bf42cf2eb4236762888a9b07c0ca3b6704d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c29fe4f31a20629656a2817e29ad5a983205feefcd472508d4c3c472242e0fd2",
+    "robots.txt": "98fdf8eff0a12a1bf9d43303d6d7c640192efa98a0f88e196cbe58e56271d00a",
+    "f8a030b65cb73ce0b60153d0e8703714.txt": "c3418d89ca9567e47b2490441ffaeb83e6161957f85b9fb2c22429f80e40104f"
+  },
+  "revision": "a08f30d8159e12843d53e043859cf0a6dd044b8eeefe26eb7c1d1aa40c25ab75"
+}
